@@ -1,0 +1,15 @@
+{
+  "name": "typescript-layout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "entrypoint/main.ts",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "author": "Max Mesiriak",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.14.9",
+    "ts-node": "^10.9.1"
+  }
+}
